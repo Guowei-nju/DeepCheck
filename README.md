@@ -41,4 +41,4 @@ python train.py --train_x train_data_path --train_y_comp train_comp_path --train
 
 We also provide the associated notebooks for use in making predictions directly:
 
-[Evaluating Macro Genome Assemblies]([notebooks/evaluating_macro_genome_assemblies.ipynb](https://github.com/Guowei-nju/DeepCheck/blob/main/evaluating%20macro%20genome%20assemblies!.ipynb))
+[Evaluating Macro Genome Assemblies](https://github.com/Guowei-nju/DeepCheck/blob/main/evaluating%20macro%20genome%20assemblies!.ipynb)
