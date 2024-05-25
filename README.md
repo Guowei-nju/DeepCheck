@@ -1,6 +1,5 @@
 ![DeepCheck Logo](https://github.com/Guowei-nju/DeepCheck/blob/main/figures/log.png)<!-- 替换为实际的Logo URL -->
 
-# DeepCheck
 
 **Multi-task learning aids in assessing microbial genome quality**
 
