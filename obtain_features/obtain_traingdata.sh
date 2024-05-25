@@ -1,5 +1,5 @@
 #!/bin/bash
-B_SCRIPT="/data/yan_code/deepcheck/data/random_protein_fragmentation.sh"
+B_SCRIPT="./random_protein_fragmentation.sh"
 
 if [ ! -f "$B_SCRIPT" ]; then
   echo "B脚本不存在或路径不正确。请检查B_SCRIPT变量的值。"

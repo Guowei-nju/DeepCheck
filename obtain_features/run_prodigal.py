@@ -2,13 +2,13 @@ import os
 import subprocess
 
 # 指定输入文件夹
-""" input_folder = 'refseq89'
+""" input_folder = 'refseq'
 genes_folder= 'traing_data/training_genes'
 proteins_folder= 'traing_data/training_proteins' """
 
-input_folder = '/data/yan_code/deepcheck/data/Patescibacteria/data/'
-genes_folder= '/data/yan_code/deepcheck/data/Patescibacteria/Patescibacteria_genes'
-proteins_folder= '/data/yan_code/deepcheck/data/Patescibacteria/Patescibacteria_proteins'
+input_folder = './data/'
+genes_folder= './Patescibacteria_genes'
+proteins_folder= './Patescibacteria_proteins'
 
 # 遍历输入文件夹中的所有.fna文件
 for filename in os.listdir("no_rundent_refseq89"):

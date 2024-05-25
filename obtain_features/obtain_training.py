@@ -7,8 +7,8 @@ def process_file(file_path, b_script):
         subprocess.call(["/bin/bash", b_script, file_path])
 
 def main():
-    b_script = "/data/yan_code/deepcheck/data/random_protein_fragmentation.sh"
-    data_dir = "/data/yan_code/deepcheck/data/traing_data/training_proteins/"
+    b_script = "./random_protein_fragmentation.sh"
+    data_dir = "./training_proteins/"
     
     if not os.path.isfile(b_script):
         print("B脚本不存在或路径不正确。请检查b_script变量的值。")
