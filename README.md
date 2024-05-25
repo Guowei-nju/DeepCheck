@@ -1,4 +1,4 @@
-![DeepCheck Logo](https://example.com/deepcheck_logo.png) <!-- 替换为实际的Logo URL -->
+![DeepCheck Logo](https://github.com/Guowei-nju/DeepCheck/blob/main/figures/log.png)<!-- 替换为实际的Logo URL -->
 
 # DeepCheck
 
